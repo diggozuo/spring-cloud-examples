@@ -1,0 +1,9 @@
+spring:
+  redis:
+    host: redis
+    port: 26380
+    password:
+    database: 1
+  session:
+      store-type: redis
+ 
